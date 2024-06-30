@@ -6,7 +6,7 @@ weight: 1
 ---
 
 ## **About Me**
-Hey my name is Jean-Paul! :wave:  
+Hi, my name is Jean-Paul! :wave:  
 
 I'm a 20y old IT Apprentice from Switzerland. I am highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.
 - :student: Finishing my 4-Year Apprenticeship in August 2024.
