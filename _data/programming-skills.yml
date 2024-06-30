@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: Bash / Shell Scripting
   percentage: 90
-  color: danger
+  color: success
 
-- name: Go
+- name: Docker
   percentage: 80
   color:
 
-- name: Python
+- name: Prometheus Monitoring
   percentage: 70
-  color: secondary
+  color: danger

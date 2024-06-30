@@ -1,0 +1,17 @@
+<div class="col mt-4">
+    <div class="timeline-body">
+      {% for item in site.data.timeline-education %}
+        <div class="timeline-item">
+          <div class={% if forloop.last %} "content-last" {% else %} "content" {% endif %}>
+            <h7 class="date">{{ item.from }} — {{ item.to }}</h7>
+            <h4 class="head">{{ item.degree }}</h4>
+            <h5 class="studyprogram">{{ item.study }}</h5>
+            <h6>{{ item.school }} - {{ item.location }}</h6>
+          {% if item.description %} 
+            <p class="text">{{ item.description }}</p>
+          {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
