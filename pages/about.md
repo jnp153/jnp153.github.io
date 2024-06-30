@@ -7,7 +7,6 @@ weight: 1
 
 ## **About Me**
 Hey my name is Jean-Paul! :wave:  
-<br>
 
 I'm a 20y old IT Apprentice from Switzerland. I am highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.
 - :student: Finishing my 4-Year Apprenticeship in August 2024.
@@ -24,13 +23,12 @@ I am currently part of the youth squad of SwissSliding and looking forward to jo
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
-## **Work Experience**
+# **Work Experience**
 <div class="row">
-{% include about/timeline-work.html %}
+{% include timeline-work.html %}
 </div>
 <br>
-
-## **Education**
+# **Education**
 <div class="row">
-{% include about/timeline-education.html %}
+{% include timeline-education.html %}
 </div>
