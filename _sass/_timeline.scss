@@ -1,0 +1,65 @@
+
+
+.timeline-body {
+	position: relative;
+	background-color: $light;
+	border-radius: 0 $rounded-borders $rounded-borders 0;
+    padding: 5px 0;
+    
+	&:after {
+        // Left Border
+		content: '';
+		width: 4px;
+		height: auto;
+		background-color: $primary;
+		position: absolute;
+		left: -4px;
+		top: 45px;
+		bottom: 0px;
+    }
+    
+	.timeline-item {
+        position: relative;
+        
+		&:after {
+            // Circle
+			content: '';
+			width: 20px;
+			height: 20px;
+			border-radius: 50%;
+			border: 4px solid $primary;
+			background-color: $light;
+			position: absolute;
+			left: -12px;
+			top: 0px;
+			z-index: 10;
+        }
+		
+		.content, .content-last {
+			margin: 30px; 
+			// margin-top: 30px; 
+			// margin-bottom: 30px; 
+
+			.head {
+				font-weight: bold;
+				padding-top: 15px;
+			}
+
+			.text {
+				text-align: justify;
+				padding-top: 15px;
+				margin-bottom: 0px;
+			}
+			
+			.date {
+				font-weight: lighter;
+				color: #6c757d;
+			}
+		} 
+
+		.content {
+			border-bottom: 1px dashed $dark;
+			padding-bottom: 25px;
+		}
+	}
+}
