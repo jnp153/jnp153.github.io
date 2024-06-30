@@ -23,12 +23,7 @@ I am currently part of the youth squad of SwissSliding and looking forward to jo
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
-# **Work Experience**
+# **Education / Work Experience**
 <div class="row">
-{% include timeline-work.html %}
-</div>
-<br>
-# **Education**
-<div class="row">
-{% include timeline-education.html %}
+{% include about/timeline.html %}
 </div>
