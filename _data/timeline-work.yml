@@ -1,14 +1,14 @@
 - title: ICT-Systemspezialist (System Engineer)
   company: Genossenschaft Migros Zürich
-  location: Zürich, Switzerland
+  location: Switzerland
   from: August 2024
   to: present
 
 - title: IT Apprentice
   company: Genossenschaft Migros Zürich
-  location: Zürich, Switzerland
+  location: Switzerland
   from: August 2020
   to: August 2024
-  description: >
-    During my 4-Year apprenticeship, I changed teams every year in order to get to know as many areas of IT as possible. I did my final project in the Unix-Team of my Company. 
-    I deployed a high available containerized Prometheus-Monitoring-Stack including Grafana, Thanos and Nginx.
+  description: During my 4-Year apprenticeship, I changed teams every year in order to get to know as many areas of IT as possible. 
+               I did my final project in the Unix-Team of my Company. I deployed a high available containerized Prometheus-Monitoring-Stack,
+               including Grafana, Thanos and Nginx.
