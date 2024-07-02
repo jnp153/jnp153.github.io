@@ -12,6 +12,7 @@ url                 : "https://jeanpaulbitschnau.dev"
 plugins:
   - jemoji
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 
 ### Navbar Settings ###
