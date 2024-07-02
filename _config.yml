@@ -1,6 +1,9 @@
 ### Site Settings ###
 title               : Jean-Paul Bitschnau
 description         : >-
+                      ```bash
+                      $ whoami
+                      ```
                       Hi, I'm <b>Jean-Paul</b>, aka JP :coffee:
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : jeeaanpaul/jeeaanpaul.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
