@@ -14,9 +14,6 @@ I'm a 20y old IT Apprentice from Switzerland. I am highly interested in technolo
 - :switzerland: Junior Bobsleigh Athelete since 2024
 - :snake: Currently learning Python...
 
-I also do a lot of sports. I recently switched from playing volleyball :volleyball: (NLB) to bobsleigh :sled:.  
-I am currently part of the youth squad of SwissSliding and looking forward to join a professional bobsled-team soon.
-
 <div class="row">
 {% include about/skills.html title="IT Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
