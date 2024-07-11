@@ -1,3 +1,16 @@
+- title: Bobsleigh Athlete
+  from: Season 2024/2025
+  to: present
+  description: Currently part of the youth squad of SwissSliding. My goal is to be part of a professional bobsleigh team on day
+               and compete in the europe/worldcup as well as in the olympics.
+
+- title: ICT System Specialist
+  from: August 2020
+  to: present
+  description: During my 4-Year apprenticeship, I changed teams every year in order to get to know as many areas of IT as possible. 
+               I did my final project in the Unix-Team of my Company. I deployed a high available containerized Prometheus-Monitoring-Stack,
+               including Grafana, Thanos and Nginx.
+
 - title: IT Apprentice
   from: August 2020
   to: July 2024
