@@ -6,9 +6,9 @@ weight: 1
 ---
 
 ## **About Me**
-Hi, my name is **{{ site.author.name }}**! :wave:  
+Hi, my name is **Jean-Paul**! :wave:  
 
-I'm a 20y old IT Apprentice from Switzerland. I am highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.
+I'm a 20y old IT Apprentice from Switzerland and highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.
 - :student: Finishing my 4-Year Apprenticeship in August 2024.
 - :computer: Starting my new position as an ICT System Specialist in August 2024.
 - :switzerland: Junior Bobsleigh Athelete since 2024
