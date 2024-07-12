@@ -6,6 +6,14 @@
   percentage: 80
   color:
 
-- name: Prometheus Monitoring
+- name: Ansible
+  percentage: 60
+  color: info
+
+- name: SUSE Linux
+  percentage: 80
+  color: success
+
+- name: VMware
   percentage: 70
   color: danger
