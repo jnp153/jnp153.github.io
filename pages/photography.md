@@ -6,10 +6,10 @@ weight: 3
 ---
 
 # Photography
-> ### :camera: GEAR 
-> Sony A7 iii  
-> Sigma 24mm 1.4  
-> Sony FE 50mm 1.8
+:camera:   
+Sony A7 iii   
+Sigma 24mm 1.4  
+Sony FE 50mm 1.8  
 
 <br>
 <img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img1.jpg" alt="32_pt_reyes" width="800" />
