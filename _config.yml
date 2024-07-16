@@ -27,12 +27,12 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Jean-Paul Bitschnau
   image             : "/assets/img/me_face.jpg"
-  email             : jean-paul.bitschnau@outlook.com
+# email             : jean-paul.bitschnau@outlook.com
   github            : jeeaanpaul
   instagram         : jeanpaulbitschnau
   linkedin          : jbitschnau
 # stackoverflow     : your_user_id
-# twitter           : your_username
+  twitter           : jeanbitschnau
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
