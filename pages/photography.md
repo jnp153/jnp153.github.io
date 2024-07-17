@@ -6,9 +6,9 @@ weight: 3
 ---
 
 # Photography
-### Camera:  
+### :camera:Camera:  
 Sony A7 iii  
-iPhone 15 Pro
+iPhone 15 Pro  
 ### Lenses:  
 Sigma 24mm 1.4  
 Sony FE 50mm 1.8  
