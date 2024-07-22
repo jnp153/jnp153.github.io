@@ -6,11 +6,8 @@ weight: 3
 ---
 
 # Photography
-#### Camera:  
-Sony A7 iii  
-####  Lenses:  
-Sigma 24mm 1.4  
-Sony FE 50mm 1.8  
+**Sony Alpha 7 III**:camera:  
+*Sigma 24mm 1.4* & *Sony FE 50mm 1.8*  
 
 <img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img1.jpg" alt="32_pt_reyes" width="800" />
 
