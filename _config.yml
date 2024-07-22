@@ -3,7 +3,7 @@ title               : Jean-Paul Bitschnau
 description         : >-
                       Hi, I'm <b>Jean-Paul</b>, aka JP :coffee:
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : jeeaanpaul/jeeaanpaul.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : jnp153/jnp153.github.io           # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                              # Opens external URLs in new tab (works for posts, projects and navbar only)
 url                 : "https://jeanpaulbitschnau.dev"
@@ -28,7 +28,7 @@ author:
   name              : Jean-Paul
   image             : "/assets/img/me_face.jpg"
 # email             : jean-paul.bitschnau@outlook.com
-  github            : jeeaanpaul
+  github            : jnp153
   instagram         : jeanpaulbitschnau
   linkedin          : jbitschnau
 # stackoverflow     : your_user_id
