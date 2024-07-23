@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Photography
@@ -9,17 +10,13 @@ weight: 3
 **Sony Alpha 7 III**:camera:  
 *Sigma 24mm 1.4* & *Sony FE 50mm 1.8*  
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img2.jpg" alt="32_pt_reyes" width="400" />
-  <img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img1.jpg" alt="32_pt_reyes" width="400" />
-</p>
+<img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img0.jpg" alt="32_pt_reyes" width="800" />
 
 <br>
+<img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img1.jpg" alt="32_pt_reyes" width="800" />
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img0.jpg" alt="32_pt_reyes" width="400" />
-  <img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img11.jpg" alt="32_pt_reyes" width="428" />
-</p>
+<br>
+<img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img2.jpg" alt="32_pt_reyes" width="800" />
 
 <br>
 <img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img3.jpg" alt="32_pt_reyes" width="800" />
@@ -44,4 +41,3 @@ weight: 3
 
 <br>
 <img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img10.jpg" alt="32_pt_reyes" width="800" />
-
