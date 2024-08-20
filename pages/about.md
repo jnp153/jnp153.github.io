@@ -6,11 +6,10 @@ weight: 1
 ---
 
 ## **About Me**
-I'm a 20y old IT Apprentice from Switzerland and highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.
-- :student: Finishing my 4-Year Apprenticeship in August 2024.
-- :penguin: Starting my new position as a Linux System Engineer in August 2024.
+I'm a 20y old Junior System Engineer from Switzerland and highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.
+- :student: Completed my 4-Year Apprenticeship in July 2024.
+- :penguin: Working as a Junior System Engineer since August 2024.
 - :switzerland: Junior Bobsleigh Athelete since 2024
-- :snake: Currently learning Python...
 
 <div class="row">
 {% include about/skills.html title="IT Skills" source=site.data.programming-skills %}
