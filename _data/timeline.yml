@@ -1,13 +1,15 @@
-- title: Bobsleigh Athlete
+- title: Bobsled Push Athlete
   from: Season 2024/2025
   to: present
-  description: Currently part of the youth squad of SwissSliding. My goal is to be part of a professional bobsleigh team one day
-               and compete in the europe/worldcup as well as in the olympics.
+  description: I am currently part of the youth squad of SwissSliding. In my first season I want to focus on gaining experience on the ice track, as well as building good physical strenght and speed.
+               My future goals are to compete in the europe/world cup and to win an olympic medal one day!
 
-- title: Linux System Engineer
+- title: Junior System Engineer at Genossenschaft Migros Zürich
   from: August 2024
   to: present
-  description:
+  description: I am working as part of the Unix & Core Systems Team. My tasks include administration and management of the linux server environment an virtualization platform,
+               serverpatching (SUSE, Redhat, Ubuntu...), package and channel distribution, script-automation, azure devops Ci/Cd, managing ansible roles and playbooks,
+               containerization with docker/podman & kubernetes and much more.
 
 - title: IT Apprentice
   from: August 2020
@@ -16,7 +18,7 @@
                I did my final project in the Unix-Team of my Company. I deployed a high available containerized Prometheus-Monitoring-Stack,
                including Grafana, Thanos and Nginx.
 
-- title: Student - Technische Berufsschule Zürich
+- title: Student at Technische Berufsschule Zürich
   from: August 2020
   to: July 2024
   description: Module-based education which is part of my 4-Year IT-Apprenticeship.
