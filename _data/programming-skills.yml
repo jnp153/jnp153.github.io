@@ -1,19 +1,19 @@
 - name: Bash / Shell Scripting
-  percentage: 90
-  color: success
+  percentage: 100
+  color:
 
 - name: Docker / Podman
-  percentage: 80
+  percentage: 100
   color:
 
 - name: Ansible
-  percentage: 60
-  color: info
+  percentage: 100
+  color:
 
 - name: SUSE Linux
-  percentage: 80
-  color: success
+  percentage: 100
+  color:
 
 - name: VMware
-  percentage: 70
-  color: danger
+  percentage: 100
+  color:
