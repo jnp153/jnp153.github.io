@@ -1,7 +1,7 @@
 - name: Adobe Photoshop
-  percentage: 60
+  percentage: 100
   color: info
 
 - name: Adobe Lightroom
-  percentage: 80
-  color: success
+  percentage: 100
+  color: info
