@@ -38,5 +38,3 @@ weight: 3
 <br>
 <img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img9.jpg" alt="32_pt_reyes" width="800" />
 
-<br>
-<img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img10.jpg" alt="32_pt_reyes" width="800" />
