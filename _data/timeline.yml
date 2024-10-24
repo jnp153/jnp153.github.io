@@ -7,7 +7,7 @@
 - title: System Engineer | Genossenschaft Migros Zürich
   from: August 2024
   to: present
-  description: I am working as part of the Unix & Core Systems Team. My tasks include administration and management of the linux server environment an virtualization platform,
+  description: I am working as part of the Unix & Core Systems team. My tasks include administration and management of the linux server environment and virtualization platform,
                serverpatching (SUSE, Redhat, Ubuntu...), package and channel distribution, script-automation, azure devops Ci/Cd, managing ansible roles and playbooks,
                containerization with docker/podman & kubernetes and much more.
 
@@ -15,7 +15,7 @@
   from: August 2020
   to: July 2024
   description: During my 4-Year apprenticeship, I changed teams yearly and gained experience in different areas of IT. 
-               I did my final project in the Unix/Linux-Team of my Company. I deployed a high available containerized Prometheus-Monitoring-Stack,
+               I did my final project in the Unix/Linux-Team of my company. I deployed a high available containerized Prometheus-Monitoring-Stack,
                including Grafana, Thanos and Nginx.
 
 - title: Student | Technische Berufsschule Zürich
