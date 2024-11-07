@@ -1,17 +1,17 @@
-- title: Bobsled Push Athlete | SwissSliding
+- title: Swiss Bobsled Push Athlete
   from: Season 2024/2025
   to: present
   description: I am currently part of the Swiss Bobteam Rohner Bulls. After a rough start and 2 hamstring injuries this year, my goal is to fully recover and to build bulletproof hamstrings.
-               My personal goals are to help my team compete in the worldcup/world championship and also to be part of the olympic team in 2030.
+               My personal goals are to help my team compete in the worldcup and world championship and also to be part of the olympic team in 2030.
 
-- title: System Engineer | Genossenschaft Migros Zürich
+- title: System Engineer
   from: August 2024
   to: present
   description: I am working as part of the Unix & Core Systems team. My tasks include administration and management of the linux server environment and virtualization platform,
-               serverpatching (SUSE, Redhat, Ubuntu...), package and channel distribution, script-automation, azure devops Ci/Cd, managing ansible roles and playbooks,
+               serverpatching (SUSE, Redhat, Ubuntu...), package and channel distribution, script-automation, azure devops Ci/Cd, managing and building ansible playbooks,
                containerization with docker/podman & kubernetes and much more.
 
-- title: IT Apprentice | Genossenschaft Migros Zürich
+- title: IT Apprentice
   from: August 2020
   to: July 2024
   description: During my 4-Year apprenticeship, I changed teams yearly and gained experience in different areas of IT. 
