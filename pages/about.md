@@ -6,6 +6,7 @@ weight: 1
 ---
 
 ## **About Me**
+Hi I am **{{ site.author.name }}** :wave:,<br>
 I'm a 21 year old Junior System Engineer from Switzerland and highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.
 - :student: Completed my 4-Year Apprenticeship in July 2024.
 - :penguin: Working as a System Engineer since August 2024.
