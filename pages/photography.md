@@ -6,8 +6,10 @@ weight: 3
 ---
 
 # Photography
-**Sony Alpha 7 III**:camera:  
-*Sigma 24mm 1.4* & *Sony FE 50mm 1.8*  
+**Sony Alpha 7 III** :camera:  
+>*Sigma 24mm f/1.4*  
+>*Sony FE 50mm f/1.8*  
+>*Samyang 35mm f/1.8*
 
 <br>
 <img src="https://raw.githubusercontent.com/jeeaanpaul/jeeaanpaul.github.io/master/images/img1.jpg" alt="32_pt_reyes" width="800" />
