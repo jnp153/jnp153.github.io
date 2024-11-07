@@ -1,7 +1,3 @@
-- name: Bash / Shell Scripting
-  percentage: 100
-  color:
-
 - name: Docker / Podman
   percentage: 100
   color:
@@ -9,11 +5,15 @@
 - name: Ansible
   percentage: 100
   color:
+  
+- name: Prometheus Monitoring
+  percentage: 100
+  color:
 
 - name: SUSE Linux
   percentage: 100
   color:
 
-- name: VMware
+- name: Shell Scripting
   percentage: 100
   color:
